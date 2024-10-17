@@ -88,10 +88,11 @@ return 0;
 
 ## OUTPUT
 
-C program that illustrates files copying
+ C program that illustrates files copying
+
 ![image](https://github.com/user-attachments/assets/334ddeb5-12f8-4243-a956-51b9ddecbc9b)
 
-C program that illustrates files locking
+ C program that illustrates files locking
 
 ![image](https://github.com/user-attachments/assets/30bcb8bc-2f25-43b3-a1ae-0ddfa48df159)
 
